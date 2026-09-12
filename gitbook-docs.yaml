@@ -9,4 +9,4 @@ site:
       default: true
       content:
         directory: ./untitled
-        language: ru
+        language: en
