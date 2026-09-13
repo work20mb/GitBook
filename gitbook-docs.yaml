@@ -17,6 +17,18 @@ site:
           content:
             directory: ./product-docs
     - type: section
+      key: section-3
+      title: Help Center
+      path: help-center
+      children:
+        - type: space
+          key: space-3
+          title: Help Center
+          path: help-center
+          default: true
+          content:
+            directory: ./help-center
+    - type: section
       key: section-1
       title: Knowledge Base
       path: knowledge-base
@@ -29,15 +41,3 @@ site:
           content:
             directory: ./untitled
             language: en
-    - type: section
-      key: section-3
-      title: Help Center
-      path: help-center
-      children:
-        - type: space
-          key: space-3
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./help-center
