@@ -41,3 +41,16 @@ site:
           content:
             directory: ./untitled
             language: en
+    - type: section
+      key: section-4
+      title: Landing Page
+      path: landing-page
+      children:
+        - type: space
+          key: space-4
+          title: Landing Page
+          path: landing-page
+          default: true
+          draft: true
+          content:
+            directory: ./landing-page
