@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Work20mb Docs
+  title: Bnowledgebase
   structure:
     - type: space
       key: space-1
-      title: Untitled
+      title: Docs
       path: untitled
       default: true
       content:
