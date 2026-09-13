@@ -29,3 +29,16 @@ site:
           content:
             directory: ./untitled
             language: en
+    - type: section
+      key: section-3
+      title: Help Center
+      path: help-center
+      children:
+        - type: space
+          key: space-3
+          title: Help Center
+          path: help-center
+          default: true
+          draft: true
+          content:
+            directory: ./help-center
