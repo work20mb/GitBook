@@ -7,6 +7,7 @@ site:
       title: Product Docs
       path: product-docs
       description: ""
+      default: true
       children:
         - type: space
           key: space-2
@@ -19,7 +20,6 @@ site:
       key: section-1
       title: Knowledge Base
       path: knowledge-base
-      default: true
       children:
         - type: space
           key: space-1
